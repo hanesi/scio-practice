@@ -1,8 +1,6 @@
 # scio job
 
-## Raison d'être
-
-TODO: your project description
+Repo to practice using Scio for things
 
 ## Features
 
@@ -45,3 +43,12 @@ sbt repl/run
 ---
 
 This project is based on the [scio.g8](https://github.com/spotify/scio.g8).
+
+
+## IntelliJ Instructions
+
+Go to Run -> Edit Build Configuration and update the commandline args you want to pass (to run in the IDE)
+
+As an example:
+
+![Screen Shot 2021-08-05 at 1 42 06 PM](https://user-images.githubusercontent.com/27983282/128396330-3276c297-255d-41ab-a65b-225b64558478.png)
